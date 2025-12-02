@@ -1,0 +1,7 @@
+contractions
+spacy
+pyspellchecker
+autocorrect
+nltk
+torch
+transformers

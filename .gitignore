@@ -1,0 +1,23 @@
+# venv
+venv/
+
+# datasets and Chroma DB
+data/
+src/rag/therapeutic_kb/
+
+# models and checkpoints
+models/
+
+# local DB
+user_memory.db
+
+# frontend node modules
+deployment/frontend/my-app/node_modules/
+
+# nested git metadata
+deployment/frontend/my-app/.git/
+
+# OS / editor junk
+*.log
+*.pyc
+__pycache__/

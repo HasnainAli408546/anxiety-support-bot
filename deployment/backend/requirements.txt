@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+pydantic
+# (add your deep learning and database packages if not present)
